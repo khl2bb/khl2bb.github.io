@@ -1,7 +1,8 @@
 
-[_khl2bb_](http://github.com/khl2bb)
+[_khl2bb(프로필)_](http://github.com/khl2bb)
 ======
-
+[_khl2bb.github.io_](http://khl2bb.github.io)
+======
 
 ## 자기소개
 
