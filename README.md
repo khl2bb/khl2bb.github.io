@@ -1,4 +1,4 @@
-```
+
 [_khl2bb_](http://github.com/khl2bb)
 ======
 
@@ -66,9 +66,7 @@
 * [_java-game-server_](https://github.com/khl2bb/java-game-server)
   > Jetserver is a high speed nio socket based multiplayer java game server written using Netty and Mike Rettig's Jetlang.It is specifically tuned for network based multiplayer games and supports TCP and UDP network protocols.
   * 자바로 게임을 만드는데 서버를 구축해서 멀티플레이를 가능하게 하는 오픈소스는 어떤 것일까 궁금해서 fork 해봤습니다.
-  
 
-```
 
 
 
