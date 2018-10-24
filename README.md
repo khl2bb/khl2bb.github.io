@@ -46,9 +46,23 @@
 * 웹 해킹 및 보안
 * 앱 개발
 
+## 성장기
+
+> 유치원 때 부터 컴퓨터로 하는 게임이 재밌어서 밖에서 뛰어노는 시간, 공부하는 시간, 잠자는 시간, 밥먹는 시간을 합쳐도 게임하는 시간을 넘지 못했다.
+  유치원, 초등학교, 중학교, 고등학교 전부 거의 매일 게임을 하면서 지내고, 현재는 과제와 공부에 타협하여 게임은 거의 하지 않고 있다.
+
+
 ## 취미
 
 * **_게임하기_**
+
+## 성격
+
+* MBTI 성격 검사에서 INTJ 형 으로 나타남. (3번 연속 INTJ, I 확실 N 확실 T 약간 J 약간)
+  * INTJ 형 관련 자료
+  > https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-intj
+  > https://namu.wiki/w/INTJ
+  > https://ko.wikipedia.org/wiki/INTJ
 
 
 ## 특징
@@ -66,4 +80,8 @@
 * [_java-game-server_](https://github.com/khl2bb/java-game-server)
   > Jetserver is a high speed nio socket based multiplayer java game server written using Netty and Mike Rettig's Jetlang.It is specifically tuned for network based multiplayer games and supports TCP and UDP network protocols.
   * 자바로 게임을 만드는데 서버를 구축해서 멀티플레이를 가능하게 하는 오픈소스는 어떤 것일까 궁금해서 fork 해봤습니다.
+  
+* [_2DARK4U-game_](https://github.com/khl2bb/2DARK4U-game)
+  > Java pseudo 3D raycasting game. Video: https://www.youtube.com/watch?v=iEig4KbJ-H4&t=69s
+  * 자바 2.5D, 3D 레이케스팅으로 구현한 게임에 관한 오픈소스입니다. 레이케스팅 구현하는 데 참고하려고 fork 했습니다.
 
