@@ -9,7 +9,7 @@
 * 이메일 : khl2bb@naver.com
 * 거주지역 : 제주도
 
-![ProfilePhoto](https://raw.githubusercontent.com/khl2bb/opensource-class/a2fcfdc1ec3f9cb29cd656a6928604ee2f037226/hotange.jpg)
+![ProfilePhoto](https://raw.githubusercontent.com/khl2bb/opensource-class/master/hotang2.PNG)
 
 
 ## 소속
