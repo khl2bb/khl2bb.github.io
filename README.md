@@ -61,7 +61,8 @@
 
 ## 성격
 
-* MBTI 성격 검사에서 INTJ 형으로 나타남. (3번 연속 INTJ, I 확실 N 확실 T 약간 J 약간)
+* MBTI 성격 검사에서 INTJ 형으로 나타남. (이제까지 MBTI 성격검사 총 횟수가 3번인데, 3번 연속 INTJ 형, I 확실 N 확실 T 약간 J 약간)
+> I 와 N 은 검사 점수가 확실히 I N 형을 가리킨다. 하지만 T 와 J는 거의 점수가 비슷하므로, INTJ형 말고도, INFJ, INTP, INFP형의 특성도 갖추고 있다고 볼 수 있다.
   * INTJ 형 관련 자료
   > https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-intj
   > https://namu.wiki/w/INTJ
