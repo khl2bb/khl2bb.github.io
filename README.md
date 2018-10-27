@@ -65,13 +65,13 @@
 > I 와 N 은 검사 점수가 확실히 I N 형을 가리킨다. 하지만 T 와 J는 거의 점수가 비슷하므로, INTJ형 말고도, INFJ, INTP, INFP형의 특성도 갖추고 있다고 볼 수 있다.
   * INTJ 형 관련 자료
   > https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-intj
-  > https://namu.wiki/w/INTJ
-  > https://ko.wikipedia.org/wiki/INTJ
+  https://namu.wiki/w/INTJ
+  https://ko.wikipedia.org/wiki/INTJ
 
 
 ## 특징
 
-* 우유부단하여 지금 github 프로필도 작성하는 데 많은 시간이 걸림
+* 우유부단하여 지금 github 프로필도 작성하는 데에도 어떤 항목을 적을 지 선택하지 못하여서 많은 시간이 걸림
 * 학교를 졸업하는 것을 목표로 재학 중임
 * 컴퓨터 게임을 많이 하다 보니까 자연스레 컴퓨터 관련 학과에 입학하여 코딩을 배우게 됨
 * 운동을 많이 해본 적 없고, 운동신경이 좋지 않음.
